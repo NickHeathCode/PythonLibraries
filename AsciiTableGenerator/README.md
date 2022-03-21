@@ -2,7 +2,7 @@
     <h1>ASCII Table Generator</h1>
     <h3>Ascii Table generator</h3>
     <div>
-        This is a basic library to let the user generate an ASCII table given headers and row data.<br  />
+        This is a basic library to let the user generate an ASCII table given headers and row data.<br /><br />
         <b>Usage:</b>
         <div  style="background-color: #e2e2e2; max-width: fit-content; padding-left: 20px; padding-right: 20px; white-space: pre;">
             from TableGenerator import Table<br  />
