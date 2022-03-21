@@ -8,7 +8,8 @@
     <h3>printColor(...) and printRainbow(...)</h3>
     <div>
         This is a basic library to print colored text.<br />
-        <b>Usage:</b>
+        <br />
+        <b>Usage:</b><br />
         from PrintColor import Color, printColor, printRainbow<br />
         printColor(Color.RED, "Here is some red text.")<br />
         printColor(Color.GREEN, "Here is some green text.")<br />
