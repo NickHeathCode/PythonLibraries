@@ -3,21 +3,18 @@
 </head>
 
 <body>
-    <h1>PythonLibraries</h1>
-    <h2>Repository for random python libraries</h2>
+    <h1>Print Color</h1>
     <br />
-    <h3>Print Color</h3>
+    <h3>printColor(...) and printRainbow(...)</h3>
     <div>
         This is a basic library to print colored text.<br />
         <b>Usage:</b>
-        <div style="background-color: #e2e2e2; max-width: fit-content; padding-left: 20px; padding-right: 20px; white-space: pre;">
             <code>
-from PrintColor import Color, printColor, printRainbow
-printColor(Color.RED, "Here is some red text.")
-printColor(Color.GREEN, "Here is some green text.")
-printRainbow("Here is rainbow text.")
+from PrintColor import Color, printColor, printRainbow<br />
+printColor(Color.RED, "Here is some red text.")<br />
+printColor(Color.GREEN, "Here is some green text.")<br />
+printRainbow("Here is rainbow text.")<br />
             </code>
-        </div>
     </div>
     <br />
     <b>Result:</b>
